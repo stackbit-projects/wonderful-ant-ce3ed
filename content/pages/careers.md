@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-f
     title: We’re
-    subtitle: You should join us.
+    subtitle: You
     feature:
       type: ImageBlock
       url: /images/hero-4.jpg
