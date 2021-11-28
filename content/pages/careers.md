@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: Featured Items..
+    title: Featured Items..??
     subtitle: The section subtitle
     items:
       - type: ItemBlock
