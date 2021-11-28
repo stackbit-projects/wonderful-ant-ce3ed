@@ -25,7 +25,6 @@ sections:
           explicabo.
         featuredImage:
           type: ImageBlock
-          url: /images/xbox.svg
           altText: Item image
       - type: ItemBlock
         title: Item Title
